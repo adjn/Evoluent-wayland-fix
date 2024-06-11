@@ -27,10 +27,15 @@ Supported events:
     Event code 4 (MSC_SCAN)
 ```
 
-value 90001 = BTN_LEFT
-value 90002 = BTN_RIGHT
-value 90003 = BTN_MIDDLE
-value 90004 = BTN_SIDE [backward]
-value 90005 = BTN_EXTRA [mousewheel]
+value 90001 = BTN_LEFT 
+
+value 90002 = BTN_RIGHT 
+
+value 90003 = BTN_MIDDLE 
+
+value 90004 = BTN_SIDE [backward] 
+
+value 90005 = BTN_EXTRA [mousewheel] 
+
 value 90006 = BTN_FORWARD
 
